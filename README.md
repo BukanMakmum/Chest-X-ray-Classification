@@ -26,9 +26,6 @@ Repositori ini berisi skrip Python sederhana yang mengimplementasikan Convolutio
 4. Klik tombol 'Muat Gambar' untuk memilih gambar sinar-X yang akan diklasifikasikan.
 5. Skrip akan menampilkan gambar yang dimuat dan memprediksi apakah gambar tersebut menunjukkan 'Normal' atau 'Pneumonia' beserta probabilitas masing-masing.
 
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE.md](LICENSE.md) untuk rincian lebih lanjut.
-
 ## Pengakuan
 - Skrip ini dikembangkan menggunakan berbagai pustaka dan paket sumber terbuka.
 - Dataset yang digunakan untuk melatih dan menguji model tidak disertakan dalam repositori ini. Harap gunakan dataset Anda sendiri untuk tujuan pelatihan.
@@ -37,6 +34,9 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE.md](LICENSE.m
 Skrip ini dirancang untuk tujuan pendidikan dan berfungsi sebagai demonstrasi tentang bagaimana membangun CNN sederhana untuk klasifikasi gambar. Disarankan untuk menggunakan model yang lebih kuat dan kompleks untuk aplikasi dunia nyata.
 
 Sumber Dataset: https://data.mendeley.com/datasets/rscbjbr9sj/3
+
+## Lisensi
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE.md](LICENSE.md) untuk rincian lebih lanjut.
 
 ## Kontak
 
